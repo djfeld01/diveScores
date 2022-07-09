@@ -17,6 +17,8 @@ return(
   <Dive dives={dives}/>
   <Dive dives={dives}/>
   <Dive dives={dives}/>
+  <Dive dives={dives}/>
+  <Dive dives={dives}/>
 
   </>
 )
