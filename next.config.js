@@ -1,5 +1,8 @@
 /** @type {import('next').NextConfig} */
 module.exports = {
+  typescript: {
+    ignoreBuildErrors: true,
+  },
   eslint: {
     dirs: ['src'],
   },
@@ -31,7 +34,5 @@ module.exports = {
 
     return config;
   },
-    typescript: {
-      ignoreBuildErrors: true,
-    },
+
 };
