@@ -13,6 +13,11 @@ module.exports = {
     'prettier',
   ],
   rules: {
+      "extends": "next",
+      "rules": {
+        "react/no-unescaped-entities": "off",
+        "@next/next/no-page-custom-font": "off"
+      },
     'no-unused-vars': 'off',
     'no-console': 'warn',
     '@typescript-eslint/explicit-module-boundary-types': 'off',
