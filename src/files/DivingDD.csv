@@ -1,0 +1,66 @@
+﻿Group,Dive,Description,C,B,A,D
+Forward,101,Forward Dive,1.2,1.3,1.4,---
+Forward,102,Forward Somersault,1.4,1.5,1.6,---
+Forward,103,Forward 1-1/2 Somersault,1.6,1.7,2,---
+Forward,104,Forward Double Somersault,2.2,2.3,2.6,---
+Forward,105,Forward 2-1/2 Somersault,2.4,2.6,---,---
+Forward,106,Forward Triple Somersault,2.9,3.2,---,---
+Forward,107,Forward 3-1/2 Somersault,3,3.3,---,---
+Forward,112,Forward Flying Somersault,1.6,1.7,---,---
+Forward,113,Forward Flying 1-1/2 Somersault,1.8,1.9,---,---
+Back,201,Back Dive,1.5,1.6,1.7,---
+Back,202,Back Somersault,1.5,1.6,1.7,---
+Back,203,Back 1-1/2 Somersault,2,2.3,2.5,---
+Back,204,Back Double Somersault,2,2.3,---,---
+Back,205,Back 2-1/2 Somersault,3,3.2,---,---
+Reverse,301,Reverse Dive,1.6,1.7,1.8,---
+Reverse,302,Reverse Somersault,1.6,1.7,1.8,---
+Reverse,303,Reverse 1-1/2 Somersault,2.1,2.4,2.7,---
+Reverse,304,Reverse Double Somersault,2.1,2.4,2.9,---
+Reverse,305,Reverse 2-1/2 Somersault,3,3.2,---,---
+Inward,401,Inward Dive,1.4,1.5,1.8,---
+Inward,402,Inward Somersault,1.6,1.7,2,---
+Inward,403,Inward 1-1/2 Somersault,2.2,2.4,---,---
+Inward,404,Inward Double Somersault,2.8,3,---,---
+Inward,405,Inward 2-1/2 Somersault,3.1,3.4,---,---
+Inward,412,Inward Flying Somersault,2,2.1,---,---
+Inward,413,Inward Flying 1-1/2 Somersault,2.7,2.9,---,---
+Twisting,5111,Forward Dive 1/2 Twist,1.6,1.7,1.8,---
+Twisting,5112,Forward Dive 1 Twist,--,1.9,2,
+Twisting,5121,Forward Somersault 1/2 Twist,---,---,---,1.7
+Twisting,5122,Forward Somersault 1 Twist,---,---,---,1.9
+Twisting,5124,Forward Somersault 2 Twists,---,---,---,2.3
+Twisting,5126,Forward Somersault 3 Twists,---,---,---,2.8
+Twisting,5131,Forward 1-1/2 Somersault 1/2 Twist,---,---,---,2
+Twisting,5132,Forward 1-1/2 Somersault 1 Twist,---,---,---,2.2
+Twisting,5134,Forward 1-1/2 Somersault 2 Twists,---,---,---,2.6
+Twisting,5136,Forward 1-1/2 Somersault 3 Twists,---,---,---,3.1
+Twisting,5142,"Forward 2 SS, 1 Twist",2.6,2.7,---,---
+Twisting,5152,Forward 2-1/2 Somersault 1 Twist,3,3.2,---,---
+Twisting,5211,Back Dive 1/2 Twist,---,---,1.8,---
+Twisting,5212,Back Dive 1 Twist,---,---,2,---
+Twisting,5221,Back Somersault 1/2 Twist,---,---,---,1.7
+Twisting,5222,Back Somersault 1 Twist,---,---,---,1.9
+Twisting,5223,Back Somersault 1-1/2 Twists,---,---,---,2.3
+Twisting,5225,Back Somersault 2-1/2 Twists,---,---,---,2.7
+Twisting,5227,Back Somersault 3-1/2 Twists,---,---,---,3.2
+Twisting,5231,Back 1-1/2 Somersault 1/2 Twist,---,---,---,2.1
+Twisting,5233,Back 1-1/2 Somersault 1-1/2 Twists,---,---,---,2.5
+Twisting,5235,Back 1-1/2 Somersault 2-1/2 Twists,---,---,---,2.9
+Twisting,5251,Back 2-1/2 Somersault 1/2 Twist,2.7,2.9,---,---
+Twisting,5311,Reverse Dive 1/2 Twist,---,---,1.9,---
+Twisting,5312,Reverse Dive 1 Twist,---,---,2.1,---
+Twisting,5321,Reverse Somersault 1/2 Twist,---,---,---,1.8
+Twisting,5322,Reverse Somersault 1 Twist,---,---,---,2
+Twisting,5323,Reverse Somersault 1-1/2 Twists,---,---,---,2.4
+Twisting,5325,Reverse Somersault 2-1/2 Twists,---,---,---,2.8
+Twisting,5331,Reverse 1-1/2 Somersault 1/2 Twist,---,---,---,2.2
+Twisting,5333,Reverse 1-1/2 Somersault 1-1/2 Twists,---,---,---,2.6
+Twisting,5335,Reverse 1-1/2 Somersault 2-1/2 Twists,---,---,---,3
+Twisting,5351,Reverse 2-1/2 Somersault 1/2 Twists,2.7,2.9,---,---
+Twisting,5411,Inward Dive 1/2 Twist,--,1.7,2,---
+Twisting,5412,Inward Dive 1 Twist,--,1.9,2.2,---
+Twisting,5421,Inward Somersault 1/2 Twist,---,---,---,1.9
+Twisting,5422,Inward Somersault 1 Twist,---,---,---,2.1
+Twisting,5432,Inward 1-1/2 Somersault 1 Twist,---,---,---,2.7
+Twisting,5434,Inward 1-1/2 Somersault 2 Twists,---,---,---,3.1
