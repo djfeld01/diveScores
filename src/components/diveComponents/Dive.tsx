@@ -2,10 +2,11 @@ import React, { useEffect,useState } from 'react'
 
 import DiveSelector from '@/components/diveComponents/DiveSelector'
 import Judge from '@/components/diveComponents/Judge'
+import Button from '@/components/buttons/Button'
 
 function Dive({dives}) {
 
-
+  const [nothing,setNothing]=useState(true)
   
   
   
@@ -84,6 +85,7 @@ function Dive({dives}) {
     }
 
     <div className="font-extrabold text-2xl text-white">Dive Score: {Math.round(diveScore*100)/100}</div>
+    <Button onClick={()=>setNothing(!nothing)}>{nothing ? "True" : "False"}</Button>  
     </div>
   )
 }
