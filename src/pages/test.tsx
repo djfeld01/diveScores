@@ -23,7 +23,7 @@ export default function App() {
     return (
         <div className="App">
             <button {...longPressEvent}>use  Loooong  Press</button>
-            <div>{display}</div>
+            <div>{display} </div>
         </div>
     );
 }
