@@ -1,4 +1,4 @@
-import useLongPress from '@/components/UseLongpress';
+import useLongPress from '@/components/UseLongPress';
 import React from 'react';
 
 export default function App() {
